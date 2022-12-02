@@ -1,5 +1,7 @@
-[![hits](https://hits.deltapapa.io/<provider>/<user>/<repo>.svg)](https://hits.deltapapa.io)   [![hits](https://hits.deltapapa.io/github/dp92987/hits-badge.svg)](https://hits.deltapapa.io)
+[![hits](https://hits.deltapapa.io/github/Adnantahir-98/hits-badge.svg)](https://hits.deltapapa.io)
+
 <br />
+
 - 👋 Hi, I’m @Adnantahir-98
 - 👀 I’m interested in writting quality Javascript and Python code ...
 - 🌱 I’m currently learning Node.js and algorithms...
