@@ -1,4 +1,4 @@
-[![hits](https://hits.deltapapa.io/github/Adnantahir-98/hits-badge.svg)](https://hits.deltapapa.io)
+[![hits](https://hits.deltapapa.io/github/Adnantahir-98/Adnantahir-98.svg)](https://hits.deltapapa.io)
 <br />
 
 - 👋 Hi, I’m @Adnantahir-98
